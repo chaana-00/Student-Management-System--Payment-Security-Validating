@@ -2,7 +2,7 @@
 Developed by HTML-CSS-PHP-JS
 
 This is a web application to get the information from a student with their details and payment
-details and display the collected information for a registration number. Then I host it on my favourite
+details. Then display the collected information for a registration number. Then I host it on my favourite
 web server running on my local computer called phpMyAdmin.
 
 ![Page 1](https://user-images.githubusercontent.com/89802304/223220671-bd1c958b-1bd1-465f-98d6-7d808cf30549.jpg)
