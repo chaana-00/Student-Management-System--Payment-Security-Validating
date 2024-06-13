@@ -1,0 +1,19 @@
+CREATE DATABASE studentDB;
+USE studentDB;
+
+CREATE TABLE student_details(
+s_name varchar(50),
+s_regNo integer primary key not null,
+s_dob varchar(8),
+s_age varchar(10),
+s_sport varchar(50)
+);
+
+select * from student_details;
+
+CREATE TABLE PAYMENT_details(
+s_num varchar(50),
+p_exDate integer primary key not null,
+p_cvv varchar(8),
+p_name varchar(10)
+);
